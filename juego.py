@@ -11,4 +11,4 @@ while True:
     if cont == 3:
         print('Game Over...muchos intentos..')
         break
-print("Felicitaciones..Ganaste...se ha adivinado el numero ", res)
+print("Felicitaciones..Eres un genio¡¡...se ha adivinado el numero ", res)
